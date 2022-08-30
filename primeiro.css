@@ -1,0 +1,30 @@
+p {
+    color : blue;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+h1 {
+
+color: green;
+font-size: 36px;
+text-align: center;
+}
+
+h2 {
+
+    color: blueviolet;
+    text-align: center;
+
+}
+
+.blue {
+
+    color: blue;
+}
+
+body{ 
+
+    background-color: black;
+}
